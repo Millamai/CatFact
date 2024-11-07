@@ -9,7 +9,7 @@ namespace CatFact
 
     public interface ICatFactRepository
     {
-       public CatFact GetRandomCatFact();
+        public CatFact GetRandomCatFact();
     }
 
 }
